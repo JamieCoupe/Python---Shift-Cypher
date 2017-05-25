@@ -1,4 +1,4 @@
-# A caeser cipher for encrypting and decrypting a message
+# A shift cipher for encrypting and decrypting a message
 
 # Welcome
 print("Welcome to a encrypting and decryption program")
